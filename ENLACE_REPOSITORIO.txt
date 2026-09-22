@@ -1,27 +1,7 @@
 REPOSITORIO GITHUB - GA7-220501096-AA2-EV02
 
-Proyecto:
-Talentos Colombia - Módulo Web de Estudiantes
+Proyecto: Talentos Colombia - Módulo Web de Estudiantes
+Aprendiz: Marcelo Gutiérrez Pineda
 
 Repositorio:
 https://github.com/jojuma03/GA7-220501096-AA2-EV02
-
-Cuenta GitHub:
-jojuma03
-
-Rama:
-main
-
-Estado:
-Repositorio público y sincronizado con GitHub.
-
-Tecnologías principales:
-Java 17
-Jakarta Servlet
-JSP
-JDBC
-MySQL
-Apache Tomcat 11
-Maven
-HTML5
-CSS
